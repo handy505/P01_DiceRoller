@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HappyBirthday</string>
+    <string name="roll">Roll</string>
+    <string name="hello_happy_birthday">Hello, Happy Birthday</string>
+    <string name="todo1">TODO</string>
+    <string name="button">Button</string>
+    <string name="todo2">TODO</string>
+    <string name="todo" />
+    <string name="Roll" />
+</resources>
